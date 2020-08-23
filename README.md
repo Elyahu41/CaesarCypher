@@ -1,2 +1,2 @@
 # CeasarCypher
-Simple program we made in class to encrypt simple .txt files
+Simple program we made in class to encrypt and decrypt simple .txt files
